@@ -1,0 +1,47 @@
+<svg height="702" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="702" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 12:21:07 +0000   105341 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 12:21:07 +0000     9187 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 12:21:07 +0000     1079 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 12:21:07 +0000     6350 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 12:21:07 +0000      623 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 12:21:07 +0000     6290 bytes  dist/svg-injector.map.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 12:21:07 +0000     4579 bytes  dist/svg-injector.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 12:21:07 +0000      690 bytes  examples/all-the-things/assets/png/thumb-up.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 12:21:07 +0000      361 bytes  examples/all-the-things/assets/svg/thumb-up.svg</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 12:21:07 +0000     1290 bytes  examples/all-the-things/index.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 12:21:07 +0000     4579 bytes  examples/all-the-things/js/svg-injector.min.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 12:21:07 +0000      700 bytes  examples/fallbacks/assets/png/thumb-up-default.p\</tspan>
+<tspan x="10" y="218">ng</tspan>
+<tspan x="10" y="234"> 12.  2017-04-21 12:21:07 +0000      701 bytes  examples/fallbacks/assets/png/thumb-up-green.png</tspan>
+<tspan x="10" y="250"> 13.  2017-04-21 12:21:07 +0000      693 bytes  examples/fallbacks/assets/png/thumb-up.png</tspan>
+<tspan x="10" y="266"> 14.  2017-04-21 12:21:07 +0000      361 bytes  examples/fallbacks/assets/svg/thumb-up.svg</tspan>
+<tspan x="10" y="282"> 15.  2017-04-21 12:21:07 +0000     1674 bytes  examples/fallbacks/index.html</tspan>
+<tspan x="10" y="298"> 16.  2017-04-21 12:21:07 +0000     4579 bytes  examples/fallbacks/js/svg-injector.min.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-21 12:21:07 +0000      605 bytes  examples/simple/index.html</tspan>
+<tspan x="10" y="330"> 18.  2017-04-21 12:21:07 +0000     4579 bytes  examples/simple/svg-injector.min.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-21 12:21:07 +0000      361 bytes  examples/simple/thumb-up.svg</tspan>
+<tspan x="10" y="362"> 20.  2017-04-21 12:21:07 +0000     1310 bytes  package.json</tspan>
+<tspan x="10" y="378"> 21.  2017-04-21 12:21:07 +0000    15996 bytes  svg-injector.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-21 12:21:07 +0000      361 bytes  tests/cors/assets/svg/thumb-up.svg</tspan>
+<tspan x="10" y="410"> 23.  2017-04-21 12:21:07 +0000     1535 bytes  tests/cors/index.html</tspan>
+<tspan x="10" y="426"> 24.  2017-04-21 12:21:07 +0000     4579 bytes  tests/cors/js/svg-injector.min.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-21 12:21:07 +0000     1359 bytes  tests/ie-style-tag-eval/index.html</tspan>
+<tspan x="10" y="458"> 26.  2017-04-21 12:21:07 +0000     4579 bytes  tests/ie-style-tag-eval/js/svg-injector.min.js</tspan>
+<tspan x="10" y="474"> 27.  2017-04-21 12:21:07 +0000      647 bytes  tests/ie-style-tag-eval/style-tag-test.svg</tspan>
+<tspan x="10" y="490"> 28.  2017-04-21 12:21:07 +0000      340 bytes  tests/iri-attribute-defs/assets/svg/clip-path.sv\</tspan>
+<tspan x="10" y="506">g</tspan>
+<tspan x="10" y="522"> 29.  2017-04-21 12:21:07 +0000     5939 bytes  tests/iri-attribute-defs/assets/svg/cursor.png</tspan>
+<tspan x="10" y="538"> 30.  2017-04-21 12:21:07 +0000      301 bytes  tests/iri-attribute-defs/assets/svg/cursor.svg</tspan>
+<tspan x="10" y="554"> 31.  2017-04-21 12:21:07 +0000      977 bytes  tests/iri-attribute-defs/assets/svg/fill.svg</tspan>
+<tspan x="10" y="570"> 32.  2017-04-21 12:21:07 +0000      368 bytes  tests/iri-attribute-defs/assets/svg/filter.svg</tspan>
+<tspan x="10" y="586"> 33.  2017-04-21 12:21:07 +0000      671 bytes  tests/iri-attribute-defs/assets/svg/marker.svg</tspan>
+<tspan x="10" y="602"> 34.  2017-04-21 12:21:07 +0000      431 bytes  tests/iri-attribute-defs/assets/svg/mask.svg</tspan>
+<tspan x="10" y="618"> 35.  2017-04-21 12:21:07 +0000     3366 bytes  tests/iri-attribute-defs/index.html</tspan>
+<tspan x="10" y="634"> 36.  2017-04-21 12:21:07 +0000     4579 bytes  tests/iri-attribute-defs/js/svg-injector.min.js</tspan>
+<tspan x="10" y="650"> 37.  2017-04-21 12:21:07 +0000      361 bytes  tests/race-condition/assets/svg/thumb-up.svg</tspan>
+<tspan x="10" y="666"> 38.  2017-04-21 12:21:07 +0000     3782 bytes  tests/race-condition/index.html</tspan>
+<tspan x="10" y="682"> 39.  2017-04-21 12:21:07 +0000     4579 bytes  tests/race-condition/js/svg-injector.min.js</tspan>
+</text>
+</svg>
